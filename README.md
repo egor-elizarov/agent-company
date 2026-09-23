@@ -4,6 +4,9 @@ An experimental starting point for AI-assisted projects: portable working
 instructions, project context, and five optional skills for product design,
 website content, interface design, interface critique, and owner feedback.
 
+Agent Company is an early experimental project, public for use and inspection.
+External contributions are not currently being accepted.
+
 ## Start here
 
 Clone this repository and launch your AI coding agent inside it. Ask:
